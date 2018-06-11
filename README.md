@@ -4,6 +4,7 @@ This is a really awesome website
 Updates made on master on Github before rebase
 
 
-#Repository Purpose
+#Purpose
 
-This is just a rebase file
+The purpose of this file is to provide examples
+on how to use Git and Github together.
